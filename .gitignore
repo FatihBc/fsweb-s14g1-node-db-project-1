@@ -1,0 +1,28 @@
+# Node.js bağımlılıkları
+node_modules/
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Veritabanı dosyaları
+*.db3
+*.sqlite
+*.backup
+
+# Test coverage çıktısı
+coverage/
+
+# Ortam değişkenleri
+.env
+.env.local
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+
+# OS sistem dosyaları
+.DS_Store
+Thumbs.db
